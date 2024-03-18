@@ -1,0 +1,15 @@
+C:\Users\Lyob\source\repos\Heaps\Heaps\bin\Debug\net6.0\Heaps.exe
+C:\Users\Lyob\source\repos\Heaps\Heaps\bin\Debug\net6.0\Heaps.deps.json
+C:\Users\Lyob\source\repos\Heaps\Heaps\bin\Debug\net6.0\Heaps.runtimeconfig.json
+C:\Users\Lyob\source\repos\Heaps\Heaps\bin\Debug\net6.0\Heaps.dll
+C:\Users\Lyob\source\repos\Heaps\Heaps\bin\Debug\net6.0\Heaps.pdb
+C:\Users\Lyob\source\repos\Heaps\Heaps\obj\Debug\net6.0\Heaps.csproj.AssemblyReference.cache
+C:\Users\Lyob\source\repos\Heaps\Heaps\obj\Debug\net6.0\Heaps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyob\source\repos\Heaps\Heaps\obj\Debug\net6.0\Heaps.AssemblyInfoInputs.cache
+C:\Users\Lyob\source\repos\Heaps\Heaps\obj\Debug\net6.0\Heaps.AssemblyInfo.cs
+C:\Users\Lyob\source\repos\Heaps\Heaps\obj\Debug\net6.0\Heaps.csproj.CoreCompileInputs.cache
+C:\Users\Lyob\source\repos\Heaps\Heaps\obj\Debug\net6.0\Heaps.dll
+C:\Users\Lyob\source\repos\Heaps\Heaps\obj\Debug\net6.0\refint\Heaps.dll
+C:\Users\Lyob\source\repos\Heaps\Heaps\obj\Debug\net6.0\Heaps.pdb
+C:\Users\Lyob\source\repos\Heaps\Heaps\obj\Debug\net6.0\Heaps.genruntimeconfig.cache
+C:\Users\Lyob\source\repos\Heaps\Heaps\obj\Debug\net6.0\ref\Heaps.dll

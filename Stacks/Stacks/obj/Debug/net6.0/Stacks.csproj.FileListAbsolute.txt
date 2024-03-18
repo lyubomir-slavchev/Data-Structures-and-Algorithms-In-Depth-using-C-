@@ -1,0 +1,15 @@
+C:\Users\Lyob\source\repos\Stacks\Stacks\bin\Debug\net6.0\Stacks.exe
+C:\Users\Lyob\source\repos\Stacks\Stacks\bin\Debug\net6.0\Stacks.deps.json
+C:\Users\Lyob\source\repos\Stacks\Stacks\bin\Debug\net6.0\Stacks.runtimeconfig.json
+C:\Users\Lyob\source\repos\Stacks\Stacks\bin\Debug\net6.0\Stacks.dll
+C:\Users\Lyob\source\repos\Stacks\Stacks\bin\Debug\net6.0\Stacks.pdb
+C:\Users\Lyob\source\repos\Stacks\Stacks\obj\Debug\net6.0\Stacks.csproj.AssemblyReference.cache
+C:\Users\Lyob\source\repos\Stacks\Stacks\obj\Debug\net6.0\Stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyob\source\repos\Stacks\Stacks\obj\Debug\net6.0\Stacks.AssemblyInfoInputs.cache
+C:\Users\Lyob\source\repos\Stacks\Stacks\obj\Debug\net6.0\Stacks.AssemblyInfo.cs
+C:\Users\Lyob\source\repos\Stacks\Stacks\obj\Debug\net6.0\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\Lyob\source\repos\Stacks\Stacks\obj\Debug\net6.0\Stacks.dll
+C:\Users\Lyob\source\repos\Stacks\Stacks\obj\Debug\net6.0\refint\Stacks.dll
+C:\Users\Lyob\source\repos\Stacks\Stacks\obj\Debug\net6.0\Stacks.pdb
+C:\Users\Lyob\source\repos\Stacks\Stacks\obj\Debug\net6.0\Stacks.genruntimeconfig.cache
+C:\Users\Lyob\source\repos\Stacks\Stacks\obj\Debug\net6.0\ref\Stacks.dll
